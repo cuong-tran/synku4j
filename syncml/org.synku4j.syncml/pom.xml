@@ -3,7 +3,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.synku4j.syncml</groupId>
 	<artifactId>org.synku4j.syncml</artifactId>
-	<version>0.2-SNAPSHOT</version>
 	<name>Synku4J SYNCML</name>
 	<parent>
 		<artifactId>org.synku4j</artifactId>
@@ -23,7 +22,6 @@
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>5.10</version>
 			<scope>test</scope>
 			<classifier>jdk15</classifier>
 		</dependency>
